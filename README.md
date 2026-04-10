@@ -40,4 +40,5 @@ http://localhost/bookstore
 ## 👨‍💻 Developer
 
 Nama: Muhamad Abib Mubarok
-Project: Bookstore PHP Native
+
+Project: USK Bookstore PHP Native
